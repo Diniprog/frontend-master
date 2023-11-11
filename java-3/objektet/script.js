@@ -1,7 +1,7 @@
 let produkti = {
   emri: "Telefon",
   pershkrimi: "iPhone 13",
-  cmimi: 650``
+  cmimi: 65``
 };
 console.log(produkti);
 // Nese cmimi eshte me i madh se 100
